@@ -1,3 +1,0 @@
-Archivos=prac1/ch130.tsp prac1/pr144.tsp prac1/a280.tsp prac1/d18512.tsp
-Algoritmos=GRE GRA BL
-Semillas=12345678 23456781 34567812

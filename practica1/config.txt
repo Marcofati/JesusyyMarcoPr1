@@ -1,0 +1,3 @@
+Archivos=ch130.tsp pr144.tsp a280.tsp d18512.tsp u1060.tsp 
+Algoritmos=GRE GRA BL
+Semillas=78164192 23456781 34567812

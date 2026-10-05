@@ -4,7 +4,7 @@ import java.util.Collections;
 public class BusquedaLocal {
 
     private Problema problema;
-    private static final int MAX_ITERACIONES = 1000;
+    private static final int MAX_ITERACIONES = 10000;
 
     public BusquedaLocal(Problema problema) {
         this.problema = problema;

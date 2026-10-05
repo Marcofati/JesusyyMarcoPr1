@@ -2,7 +2,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        Configurador config = new Configurador("prac1/config.txt");
+        Configurador config = new Configurador("config.txt");
 
         for (String rutaArchivo : config.getArchivos()) {
 
