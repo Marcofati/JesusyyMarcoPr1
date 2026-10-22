@@ -1,0 +1,3 @@
+Instancia: d18512 | Algoritmo: GRE | Semilla: determinista
+Formato de movimiento: ciudades asociadas al intercambio 2-opt y coste de la solución tras aceptarlo.
+Resultado final: coste=51161687.81066884 | tiempo_ms=1101.301

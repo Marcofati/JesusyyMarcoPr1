@@ -1,0 +1,3 @@
+Instancia: a280 | Algoritmo: GRA | Semilla: 78164192
+Formato de movimiento: ciudades asociadas al intercambio 2-opt y coste de la solución tras aceptarlo.
+Resultado final: coste=29781.95345952 | tiempo_ms=2.238

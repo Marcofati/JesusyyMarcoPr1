@@ -1,0 +1,3 @@
+Instancia: u1060 | Algoritmo: GRE | Semilla: determinista
+Formato de movimiento: ciudades asociadas al intercambio 2-opt y coste de la solución tras aceptarlo.
+Resultado final: coste=5670064.49087124 | tiempo_ms=14.025

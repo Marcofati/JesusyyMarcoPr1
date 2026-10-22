@@ -1,0 +1,3 @@
+Instancia: ch130 | Algoritmo: GRE | Semilla: determinista
+Formato de movimiento: ciudades asociadas al intercambio 2-opt y coste de la solución tras aceptarlo.
+Resultado final: coste=40397.47453485 | tiempo_ms=95.196
